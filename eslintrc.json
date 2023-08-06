@@ -1,0 +1,13 @@
+{
+    "env":{
+        "node":true,
+        "es2022":true
+    },
+    "parseOptions":{
+        "ecmaVersion":13,
+        "sourceType":"script",
+        "ecmaFeatures":{
+            "impliedStrict":true
+        }
+    }
+}
